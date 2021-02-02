@@ -1,0 +1,3 @@
+include ':cyn'
+include ':app'
+rootProject.name = "tongxunlu"
